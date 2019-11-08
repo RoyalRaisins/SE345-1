@@ -1,0 +1,29 @@
+D:/ECD/Stopwatch/sevenseg.v {1 {vlog -work work -stats=none D:/ECD/Stopwatch/sevenseg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module sevenseg
+
+Top level modules:
+	sevenseg
+
+} {} {}} D:/ECD/ModelsimTest/clk_tb.v {1 {vlog -work work -stats=none D:/ECD/ModelsimTest/clk_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module clk_top
+
+Top level modules:
+	clk_top
+
+} {} {}} D:/ECD/Stopwatch/clk.v {1 {vlog -work work -stats=none D:/ECD/Stopwatch/clk.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module clk
+
+Top level modules:
+	clk
+
+} {} {}} D:/ECD/ModelsimTest/stopwatch_tb.v {1 {vlog -work work -stats=none D:/ECD/ModelsimTest/stopwatch_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module stopwatch_top
+
+Top level modules:
+	stopwatch_top
+
+} {} {}}

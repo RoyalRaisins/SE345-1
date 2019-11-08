@@ -1,0 +1,115 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+vclk
+!s110 1572605432
+!i10b 1
+!s100 ]a5ln8<4:X5oLR76<G5MR1
+IY7Hb[nO8EkDMi:;W4AT;11
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dD:/ECD/ModelsimTest
+w1572605421
+8D:/ECD/Stopwatch/clk.v
+FD:/ECD/Stopwatch/clk.v
+L0 2
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1572605432.000000
+!s107 D:/ECD/Stopwatch/clk.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ECD/Stopwatch/clk.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vclk_top
+!s110 1572609116
+!i10b 1
+!s100 GdWVB;WmLoN@4=4JaG1L71
+I9B0gjcXRQcJSjTlInUUGf0
+R0
+R1
+w1572609110
+8D:/ECD/ModelsimTest/clk_tb.v
+FD:/ECD/ModelsimTest/clk_tb.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1572609116.000000
+!s107 D:/ECD/ModelsimTest/clk_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ECD/ModelsimTest/clk_tb.v|
+!i113 1
+R3
+R4
+vsevenseg
+!s110 1572603697
+!i10b 1
+!s100 G]6nEg9L]z88OUglYDB_d3
+IFBS0cTfIf^`J19PooZFn?1
+R0
+R1
+w1572586624
+8D:/ECD/Stopwatch/sevenseg.v
+FD:/ECD/Stopwatch/sevenseg.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1572603697.000000
+!s107 D:/ECD/Stopwatch/sevenseg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ECD/Stopwatch/sevenseg.v|
+!i113 1
+R3
+R4
+vstopwatch_01
+!s110 1572613788
+!i10b 1
+!s100 @=l5;B]`ai]6`ijRAXKSf1
+I;[bBkj4fDYAaZcj9b?jfm3
+R0
+R1
+w1572612952
+8D:/ECD/Stopwatch/stopwatch_01.v
+FD:/ECD/Stopwatch/stopwatch_01.v
+L0 10
+R2
+r1
+!s85 0
+31
+!s108 1572613788.000000
+!s107 D:/ECD/Stopwatch/stopwatch_01.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ECD/Stopwatch/stopwatch_01.v|
+!i113 1
+R3
+R4
+vstopwatch_top
+!s110 1572613816
+!i10b 1
+!s100 Me=UUS7^F_9ILS_RGHnGo0
+IW8KAO[Dg@jAhadPlOYIn13
+R0
+R1
+w1572613800
+8D:/ECD/ModelsimTest/stopwatch_tb.v
+FD:/ECD/ModelsimTest/stopwatch_tb.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1572613816.000000
+!s107 D:/ECD/ModelsimTest/stopwatch_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ECD/ModelsimTest/stopwatch_tb.v|
+!i113 1
+R3
+R4

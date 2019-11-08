@@ -1,0 +1,8 @@
+`timescale 1ns/1ns
+
+module clk_top;
+
+
+
+clk c1(.clk(clk));
+endmodule
